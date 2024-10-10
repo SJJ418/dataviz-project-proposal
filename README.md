@@ -21,8 +21,13 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+Below is first sketch of my proposed visualization.
+
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLiving.jpg)
+
+Below are iteration comments for my first visualization sketch.
+
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLiving.jpg)
 
 
 ## Prototypes
