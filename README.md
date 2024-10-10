@@ -27,14 +27,20 @@ Below is first sketch of my proposed visualization.
 
 Below are iteration comments for my first visualization sketch.
 
-[Top 10 ](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLivingIteration.jpg)
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLivingIteration.jpg)
 
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a bar chart that shows the top ten countries by cost of living
 
-[![image](https://vizhub.com/SJJ418/17194ee381f74b17902515e736096d57)
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/costOfLivingIndexTop10.png)
+
+[Cost of Living Index By Country (Top 10)](https://vizhub.com/SJJ418/17194ee381f74b17902515e736096d57)
+
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/costOfLivingIndexTop10.png)
+
+[Median Salary By Country (Top 10)](https://vizhub.com/SJJ418/f887f1018b6e41329931308b5ce4c691)
 
 
 You can put images into here by pasting them into issues.
