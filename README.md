@@ -27,15 +27,15 @@ Below is first sketch of my proposed visualization.
 
 Below are iteration comments for my first visualization sketch.
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLivingIteration.jpg)
+[Top 10 ](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLivingIteration.jpg)
 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a bar chart that shows the top ten countries by cost of living
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLiving.jpg)
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
+[![image](https://vizhub.com/SJJ418/17194ee381f74b17902515e736096d57)
+
 
 You can put images into here by pasting them into issues.
 
