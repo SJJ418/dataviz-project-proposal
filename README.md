@@ -8,6 +8,12 @@ The data I propose to visualize for my project is [Cost of Living Index by Count
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
+ * I want to understand the geographical distribution of the cost of living index.
+ * I want to see correlation between rent index and groceries index.
+ * I want to see correlation between local purchasing power index and the cost of living index.
+ * I want to see correlation between the cost of living index dataset and the global country development and prosperity index dataset.
+ * I want to understand the geographic distibution of rent index.
+
  * (insert your question or task here) How does the X vary over time?
  * (insert your question or task here) Is there any correlation between X and Y?
  * (insert your question or task here) Are there interesting spatial patterns in X?
