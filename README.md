@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [Cost of Living Index by Country 2024 Dataset](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
+The data I propose to visualize for my project is [Cost of Living Index by Country 2024 Dataset](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024) and [Salary by Job Title and Country](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country?select=Salary.csv).
 
 ## Questions & Tasks
 
