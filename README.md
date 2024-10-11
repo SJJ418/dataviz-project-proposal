@@ -45,10 +45,10 @@ I am currently looking into additional channels to represent the data within eac
 
 ## Milestones
 
-Week 8   - Implement full datasets
-Week 9   - Combine line and bar chart
-Week 10  - Explore additional ways to represent individual countries
-Week 11  - Implement individual country representation
-Week 12  - Add tooltips
-Week 13  - Finalize visualization
-Week 14  - Write report
+* Week 8   - Implement full datasets
+* Week 9   - Combine line and bar chart
+* Week 10  - Explore additional ways to represent individual countries
+* Week 11  - Implement individual country representation
+* Week 12  - Add tooltips
+* Week 13  - Finalize visualization
+* Week 14  - Write report
