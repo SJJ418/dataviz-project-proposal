@@ -52,3 +52,10 @@ I am currently looking into additional channels to represent the data within eac
 * Week 12  - Add tooltips
 * Week 13  - Finalize visualization
 * Week 14  - Write report
+
+
+## Week 8
+
+Full datasets have been implemented into previous data visualizations. At this point, I may be pivoting to add the ability to show additional data per country, one country at a time, instead of just the top ten cross examined with salary. Each country will be selectable.
+
+[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/medianSalaryTop10.png)](https://vizhub.com/SJJ418/cost-of-living-by-country-top-10-rev1?file=index.js&tabs=index.js%7Ecost_of_living_index.csv)
