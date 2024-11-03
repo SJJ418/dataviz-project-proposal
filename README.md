@@ -64,4 +64,4 @@ Full datasets have been implemented into previous data visualizations. At this p
 
 Direction change for vizualization. Data set applied to world map that allows for country selection (currently mouseover only). Next steps are to include additional data per country selected. This information will appear in a popup when a country is clicked. Possible graphics include radar chart of index breakdown, country rankings and salary display. Any advice on additional information to include or methods to compare countries would be appreciated. Thank you!
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/costOfLivingIndexTop10.png)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection?edit=files&file=cost_of_living_index.csv&tabs=map.js%7Eindex.js%7Epackage.json%7Ecost_of_living_index.csv)
+[![image](salaryVsCostOfLivingIteration.jpg)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection?edit=files&file=cost_of_living_index.csv&tabs=map.js%7Eindex.js%7Epackage.json%7Ecost_of_living_index.csv)
