@@ -71,7 +71,7 @@ Direction change for vizualization. Data set applied to world map that allows fo
 Color key added (still working to make color gradient interpolation work with key). Added country selection fucntionality to represent additional country data. Next steps are to fix colors and create additional visualizations for additional country information.
 
 
-[![image](costOfLivingIndexWithCountrySelection)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection?edit=files&file=cost_of_living_index.csv&tabs=map.js%7Eindex.js%7Epackage.json%7Ecost_of_living_index.csv)
+[![image](colorKey)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection-and-color-scale?mode=embed)
 
 
-[![image](costOfLivingIndexWithCountrySelection)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection?edit=files&file=cost_of_living_index.csv&tabs=map.js%7Eindex.js%7Epackage.json%7Ecost_of_living_index.csv)
+[![image](countryPopUp)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection-and-color-scale?mode=embed)
