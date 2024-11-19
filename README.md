@@ -80,7 +80,7 @@ Color key added (still working to make color gradient interpolation work with ke
 
 Color was changed to use a color scale (currently not interactive) however country pop-up is functional and displays country and cost of living. Next steps are to add secondary vizualization to pop-up that breaks down the cost of living scoreds in each country and displays rank.
 
-[![image](colorKey)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?edit=files&file=map.js)
+[![image](costOfLivingIndexColorScale)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?edit=files&file=map.js)
 
 
-[![image](countryPopUp)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?edit=files&file=map.js)
+[![image](countryCostOfLivingPopUp)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?edit=files&file=map.js)
