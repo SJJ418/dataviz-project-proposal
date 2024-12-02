@@ -87,8 +87,8 @@ Color was changed to use a color scale (currently not interactive) however count
 
 ## Week 13
 
-Radar Graph is added when country is selected.
+Radar Graph is added when country is selected. Next steps are to clean up presentation and add color gradient to circles in radar chart.
 
-[![image](costOfLivingRadarChart.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up?edit=files)
+[![image](costOfLivingRadarChart.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up?mode=embed)
 
 
