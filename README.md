@@ -84,3 +84,11 @@ Color was changed to use a color scale (currently not interactive) however count
 
 
 [![image](countryCostOfLivingPopUp.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?mode=embed)
+
+## Week 13
+Credit: Maddy's slave Sandy
+
+
+Radar Graph is added when country is selected.
+
+
