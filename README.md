@@ -14,11 +14,6 @@ The following tasks and questions will drive the visualization and interaction d
  * I want to see correlation between the cost of living index dataset and the global country development and prosperity index dataset.
  * I want to understand the geographic distibution of rent index.
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
-
 ## Sketches
 
 Below is first sketch of my proposed visualization.
