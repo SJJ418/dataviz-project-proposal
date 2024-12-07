@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [[![image](costOfLivingDataset)](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
+The data I propose to visualize for my project is [[![image](costOfLivingDataset.png)](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
 
 [![image](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
 
