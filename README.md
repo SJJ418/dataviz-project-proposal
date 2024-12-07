@@ -118,5 +118,21 @@ For this week, the colors were inverted to show countries with a higher cost of 
 [![image](costOfLivingRadarChartREV1.png)](https://vizhub.com/SJJ418/82ef5cbe42764ecost-of-living-map-with-radar-chart-pop-up-rev12481f25ec7e59026b2?mode=embed)
 
 
+## Week 7 - Submission
+
+For the final iteration, the radar chart pop-up was scaled larger for readability. Colors were also added to the radar chart to represent latge and small index values. Dark green for low index values, and dark red for high index values. Final visulaization shown below.
+
+Cost of living index map
+[![image](costOfLivingMapFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+
+Cost of living index map with country text hover
+[![image](costOfLivingMapHoverFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+
+Cost of living index radar chart breakdown
+[![image](costOfLivingRadarChartFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+
+Cost of living index readar chart breakdown with value text hover
+[![image](costOfLivingRadarChartHoverFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+
 
 
