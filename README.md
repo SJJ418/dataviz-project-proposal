@@ -1,4 +1,4 @@
-# Data Visualization Project
+# Cost of Living By Country Visualization
 
 ## Data
 
