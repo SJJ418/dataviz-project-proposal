@@ -42,16 +42,16 @@ Below are iteration comments for proposed visualization sketches.
 
 [![image](costOfLivingIndexIteration.jpg)
 
-
-
-
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a bar chart that shows the top ten countries by cost of living along with a line graph that represents the median salary in each of those top ten countries.
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/costOfLivingIndexTop10.png)](https://vizhub.com/SJJ418/17194ee381f74b17902515e736096d57)
+[![image](costOfLivingIndexTop10.png)](https://vizhub.com/SJJ418/17194ee381f74b17902515e736096d57)
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/medianSalaryTop10.png)](https://vizhub.com/SJJ418/f887f1018b6e41329931308b5ce4c691)
+[![image](medianSalaryTop10.png)](https://vizhub.com/SJJ418/f887f1018b6e41329931308b5ce4c691)
+
+[![image](costOfLivingMapPrototype.png)](https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed)
+https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed
 
 
 ## Open Questions
@@ -60,13 +60,13 @@ I am currently looking into additional channels to represent the data within eac
 
 ## Milestones
 
-* Week 8   - Implement full datasets
-* Week 9   - Combine line and bar chart
-* Week 10  - Explore additional ways to represent individual countries
-* Week 11  - Implement individual country representation
-* Week 12  - Add tooltips
-* Week 13  - Finalize visualization
-* Week 14  - Write report
+* Week 1   - Implement full datasets
+* Week 2   - Combine line and bar chart
+* Week 3  - Explore additional ways to represent individual countries
+* Week 4  - Implement individual country representation
+* Week 5  - Add tooltips
+* Week 6  - Finalize visualization
+* Week 7  - Complete project
 
 
 ## Week 9
