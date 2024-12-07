@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [[![image](costOfLivingDataset.png)](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
+The data I propose to visualize for my project is the 2024 Cost of Living Index by Country. [[![image](costOfLivingDataset.png)](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
 
 A cost of living index of 100 is equivalent to New York City where monthly costs for a family without rent are $6,074.40 and individuals are $1,640.90.
 
