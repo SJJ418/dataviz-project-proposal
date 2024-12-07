@@ -2,7 +2,9 @@
 
 ## Data
 
-The data I propose to visualize for my project is [![image](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
+The data I propose to visualize for my project is [![image](c[![image](countryPopUp)](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection-and-color-scale?mode=embed))](https://vizhub.com/SJJ418/cost-of-living-world-map-with-country-selection-and-color-scale?mode=embed)
+
+[![image](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
 
 
 [Cost of Living Index by Country 2024 Dataset](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
