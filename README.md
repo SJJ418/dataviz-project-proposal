@@ -111,4 +111,8 @@ Radar Graph is added when country is selected. Next steps are to clean up presen
 
 ## Week 6
 
+For this week, the colors were inverted to show countries with a higher cost of living as more dark red. Additionally the color scale was adjusted to better represent the dataset.
+
+[![image](costOfLivingRadarChart.png)](https://vizhub.com/SJJ418/82ef5cbe42764ecost-of-living-map-with-radar-chart-pop-up-rev12481f25ec7e59026b2?mode=embed)
+
 
