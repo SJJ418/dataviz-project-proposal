@@ -30,13 +30,19 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-Below is first sketch of my proposed visualization.
+Below are some sketches of my proposed visualization.
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLiving.jpg)
+[![image](salaryVsCostOfLiving.jpg)
 
-Below are iteration comments for my first visualization sketch.
+![image](costOfLivingIndex.jpg)
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/salaryVsCostOfLivingIteration.jpg)
+Below are iteration comments for proposed visualization sketches.
+
+[![image](salaryVsCostOfLivingIteration.jpg)
+
+[![image](costOfLivingIndexIteration.jpg)
+
+
 
 
 ## Prototypes
