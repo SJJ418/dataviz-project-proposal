@@ -90,7 +90,7 @@ Color key added (still working to make color gradient interpolation work with ke
 
 ## Week 4
 
-Color was changed to use a color scale (currently not interactive) however country pop-up is functional and displays country and cost of living. Next steps are to add secondary vizualization to pop-up that breaks down the cost of living scoreds in each country and displays rank.
+Color was changed to use a color scale however country pop-up is functional and displays country and cost of living. Next steps are to add secondary vizualization to pop-up that breaks down the cost of living scoreds in each country and displays rank.
 
 [![image](costOfLivingColorScale.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-colorscale-and-country-pop-up?mode=embed)
 
