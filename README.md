@@ -54,9 +54,7 @@ The bar chart above is to be paired with a line graph that represents the median
 
 The wold map below represents the cost of living in each country where the more blue/purple a country is, the higher the cost of living.
 
-
-
-[![image](costOfLivingMapPrototype.png)](https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed)
+[![image](costOfLivingMapPrototype.png)](https://vizhub.com/SJJ418/b1366da1471a4d72bdcbb30a1eee33d4?mode=embed)
 
 
 ## Milestones
@@ -74,7 +72,9 @@ The wold map below represents the cost of living in each country where the more 
 
 Full datasets have been implemented into previous data visualizations. At this point, I may be pivoting to add the ability to show additional data per country, one country at a time, instead of just the top ten cross examined with salary. Each country will be selectable.
 
-[![image](https://github.com/SJJ418/dataviz-project-proposal/blob/master/costOfLivingIndexTop10.png)](https://vizhub.com/SJJ418/cost-of-living-by-country-top-10-rev1?file=index.js&tabs=index.js%7Ecost_of_living_index.csv)
+[![image](costOfLivingIndexTop10.png)](https://vizhub.com/SJJ418/cost-of-living-by-country-top-10-rev1?file=index.js&tabs=index.js%7Ecost_of_living_index.csv)
+
+[![image](costOfLivingMap.png)](https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed)
 
 ## Week 2
 
