@@ -4,7 +4,8 @@
 
 The data I propose to visualize for my project is [[![image](costOfLivingDataset.png)](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024)
 
-* A cost of living index of 100 is equivalent to New York City where monthly costs for a family without rent are $6,074.40 and individuals are $1,640.90.
+A cost of living index of 100 is equivalent to New York City where monthly costs for a family without rent are $6,074.40 and individuals are $1,640.90.
+
 * Cost of Living Index (Excl. Rent): This index indicates the relative prices of consumer goods like groceries, restaurants, transportation, and utilities. It excludes accommodation expenses such as rent or mortgage. For instance, a city with a Cost of Living Index of 120 is estimated to be 20% more expensive than New York City (excluding rent).
 * Rent Index: This index estimates the prices of renting apartments in a city compared to New York City. If the Rent Index is 80, it suggests that the average rental prices in that city are approximately 20% lower than those in New York City.
 * Cost of Living Plus Rent Index: This index estimates consumer goods prices, including rent, in comparison to New York City.
