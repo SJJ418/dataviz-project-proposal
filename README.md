@@ -51,7 +51,6 @@ I’ve created a proof of concept visualization of this data. It's a bar chart t
 [![image](medianSalaryTop10.png)](https://vizhub.com/SJJ418/f887f1018b6e41329931308b5ce4c691)
 
 [![image](costOfLivingMapPrototype.png)](https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed)
-https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed
 
 
 ## Open Questions
