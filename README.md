@@ -54,6 +54,8 @@ The bar chart above is to be paired with a line graph that represents the median
 
 The wold map below represents the cost of living in each country where the more blue/purple a country is, the higher the cost of living.
 
+
+
 [![image](costOfLivingMapPrototype.png)](https://vizhub.com/SJJ418/cost_of_living_world_map?mode=embed)
 
 
