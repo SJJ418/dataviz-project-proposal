@@ -129,10 +129,10 @@ Cost of living index map with country text hover
 [![image](costOfLivingMapHoverFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
 
 Cost of living index radar chart breakdown
-[![image](costOfLivingRadarChartFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+[![image](radarChartFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
 
 Cost of living index readar chart breakdown with value text hover
-[![image](costOfLivingRadarChartHoverFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
+[![image](radarChartHoverFinal.png)](https://vizhub.com/SJJ418/cost-of-living-map-with-radar-chart-pop-up-final?mode=embed)
 
 
 
