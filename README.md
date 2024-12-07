@@ -34,7 +34,7 @@ Below are some sketches of my proposed visualization.
 
 [![image](salaryVsCostOfLiving.jpg)
 
-[![image](costOfLivingIndex.jpg)
+[![image](costOfLivingIndex.png)
 
 Below are iteration comments for proposed visualization sketches.
 
